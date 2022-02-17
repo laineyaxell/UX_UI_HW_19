@@ -7,6 +7,7 @@
     margin: auto;
     padding: 5%;
 }
+.h
 
 .area1 {
     grid-area: myArea;
@@ -43,13 +44,11 @@
         padding:5%;
 }
 }
-
 h1{
-    size: 48;
+    size: 60;
     font-style: italic;
     margin: 10px;
 }
-
 body{
     background-color: lavender;
 }
